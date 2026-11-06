@@ -11,6 +11,6 @@ It deliberately does **not** contain:
 
 Numbers quoted in the documents (latencies, counts, query rates) are aggregate measurements and identify no person.
 
-The security design of the shared platform is described in the [Call Me Taxi case study](https://github.com/ywtzcloud/callme-taxi-showcase/blob/main/docs/SECURITY_DESIGN.md).
+The security design of the shared platform is described in the [Call Me Taxi case study](https://github.com/ywtzdev/callme-taxi-showcase/blob/main/docs/SECURITY_DESIGN.md).
 
 If you believe something sensitive was published here by mistake, please open a private security advisory on this repository or contact the owner through GitHub. Do not open a public issue.

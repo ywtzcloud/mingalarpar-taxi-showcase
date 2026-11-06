@@ -1,7 +1,7 @@
 # Mingalarpar Taxi: Multi-Role Ride-Hailing App, Engineering Case Study
 
 > A ride-hailing app in production for customers, drivers and staff, with vehicle classes, an SOS channel, a coin rewards economy and automatic order recovery.
-> Its backend architecture is **callme-core**, the self-hosted platform designed for [Call Me Taxi](https://github.com/ywtzcloud/callme-taxi-showcase), extended with Mingalarpar's own product rules.
+> Its backend architecture is **callme-core**, the self-hosted platform designed for [Call Me Taxi](https://github.com/ywtzdev/callme-taxi-showcase), extended with Mingalarpar's own product rules.
 
 ![Kotlin](https://img.shields.io/badge/Android-Kotlin%20%7C%20Jetpack%20Compose-7F52FF?logo=kotlin&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Platform-Node.js%2022%20%7C%20Fastify-339933?logo=node.js&logoColor=white)
@@ -85,7 +85,7 @@ Details: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 | [MIGRATION.md](docs/MIGRATION.md) | Moving a live product onto its own backend safely |
 | [SECURITY.md](SECURITY.md) | What this public repository deliberately does not contain |
 
-Platform design, security model and production incidents are documented in the [Call Me Taxi case study](https://github.com/ywtzcloud/callme-taxi-showcase).
+Platform design, security model and production incidents are documented in the [Call Me Taxi case study](https://github.com/ywtzdev/callme-taxi-showcase).
 
 ---
 

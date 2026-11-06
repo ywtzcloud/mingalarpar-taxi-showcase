@@ -1,6 +1,6 @@
 # Architecture
 
-Mingalarpar Taxi is the second product on **callme-core**. The platform itself (API, realtime, job queue, data model, admin console, operations) is documented in the [Call Me Taxi case study](https://github.com/ywtzcloud/callme-taxi-showcase/blob/main/docs/ARCHITECTURE.md). This page covers what is specific to Mingalarpar.
+Mingalarpar Taxi is the second product on **callme-core**. The platform itself (API, realtime, job queue, data model, admin console, operations) is documented in the [Call Me Taxi case study](https://github.com/ywtzdev/callme-taxi-showcase/blob/main/docs/ARCHITECTURE.md). This page covers what is specific to Mingalarpar.
 
 ## One platform, isolated products
 

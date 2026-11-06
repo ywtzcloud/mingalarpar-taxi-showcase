@@ -1,6 +1,6 @@
 # Migration
 
-Mingalarpar follows the path proven with [Call Me Taxi](https://github.com/ywtzcloud/callme-taxi-showcase/blob/main/docs/MIGRATION.md): **move the rules, don't rewrite them**, then improve on the owned platform.
+Mingalarpar follows the path proven with [Call Me Taxi](https://github.com/ywtzdev/callme-taxi-showcase/blob/main/docs/MIGRATION.md): **move the rules, don't rewrite them**, then improve on the owned platform.
 
 ## Steps and verification
 
